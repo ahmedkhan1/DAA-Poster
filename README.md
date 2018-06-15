@@ -23,5 +23,5 @@ In this project, we have discussed the implementation of this 2-3-4 tree by join
 2. Open it on any IDE eg.eclipse,intellija ide etc.
 3. Compile and run it.
 4. Console window will open and the program will ask you to choose either to *insert/show/find* the keys in the tree.
-5. If show is choosen,an empty tree will be displayed similarly insert will let you insert a key in the tree and find will tell whether the key exists in the tree or not.
+5. If show is choosen,an tree with few keys pre-inserted will be displayed,insert will let you insert a key in the tree and find will tell whether the key exists in the tree or not.
 
